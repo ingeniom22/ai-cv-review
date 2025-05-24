@@ -1,8 +1,3 @@
-Berikut adalah versi Bahasa Indonesia dari `README.md` untuk aplikasi CV Reviewer Anda:
-
----
-
-````markdown
 # Aplikasi CV Reviewer
 
 Aplikasi web yang menganalisis dan memberikan ulasan terhadap CV LinkedIn (ekspor dalam format PDF). Dibuat menggunakan Vite, React, dan Mantine, serta memanfaatkan OpenAI API untuk memberikan umpan balik secara otomatis.
@@ -78,4 +73,3 @@ src/
 ## Lisensi
 
 MIT License
-```
