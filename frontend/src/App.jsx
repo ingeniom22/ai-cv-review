@@ -233,14 +233,13 @@ function App() {
 
   return (
     <MantineProvider theme={{ colorScheme: 'dark' }}>
-
       <Container
         fluid
         px={0}
         style={{
           width: '80vw',
           margin: '0 auto',
-          maxWidth: 'none',
+          maxWidth: '80hw',
           // background: 'linear-gradient(135deg, #e0c3fc,rgb(4, 10, 17))',
         }}
       >
